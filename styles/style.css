@@ -248,9 +248,13 @@ body {
     font-weight: 700;
 }
 
-.pot {font-size: 48px;}
+.pot {
+    font-size: 48px;
+}
 
-.pot-des {font-size: 20px;}
+.pot-des {
+    font-size: 20px;
+}
 
 .pro {
     float: left;
@@ -276,15 +280,17 @@ body {
 }
 
 /* subscriptionqq */
-.mail{
+.mail {
     /* text-align: center; */
 
 }
-.subs{
+
+.subs {
     text-align: center;
-    margin-bottom:  200px;
+    margin-bottom: 200px;
 }
-.tn-t{
+
+.tn-t {
     color: crimson;
     background-color: cornflowerblue;
     /* background-color: darkblue; */
@@ -296,10 +302,47 @@ body {
     border-radius: 28px;
 }
 
-.ent{width: 450px;
-height: 80px;
-font-size: 24px;
-border-radius: 30px;
-background-color: rgb(29, 221, 221);
-margin-top: 100px;}    
-    
+.ent {
+    width: 450px;
+    height: 80px;
+    font-size: 24px;
+    border-radius: 30px;
+    background-color: rgb(29, 221, 221);
+    margin-top: 100px;
+    border: 5px solid red;
+}
+/* footer */
+.place{
+    float: left;
+    margin-left: 20px;
+    color: white;
+    margin-top: 20PX;
+    font-size: 19PX;
+    /* width: 100px; */
+}
+.call{
+    float: right;
+    margin-right: 11px;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    /* width: 90PX; */
+}
+.foot-container{
+    height: 389px;
+    width: 100%;
+    background-color: darkslategray;
+}
+.SUP{ margin-top: 200px;
+   color: white;
+   float: right;
+   /* text-align: right; */
+}
+.COP{
+    margin-top: 200px;
+    color: white;
+    float: left;
+    /* text-align: left; */
+}
+
+
