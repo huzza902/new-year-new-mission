@@ -49,7 +49,257 @@
     height: 500px;
     border-radius: 0px;
     /* position: absolute; */
-    padding: 0px 250px 0px ;
+    padding: 0px 250px 0px;
     margin-top: 0px;
     width: 802px;
 }
+
+/* main related styles */
+/* main head */
+
+/* .main-head{ */
+/* display: flex; */
+
+.main-h1 {
+    width: 1320px;
+    height: 600px;
+    background-image: url("../images/Vectorrr.png");
+    border-radius: 18px;
+
+}
+
+.main-h1-title {
+    font-weight: 900;
+    font-size: 65px;
+    color: white;
+    width: 645px;
+    height: 176px;
+    padding: 100px 100px 0px 100px;
+}
+
+.main-h1-des {
+    color: white;
+    padding: 0px 100px 0px 100px;
+    height: 68px;
+    width: 640px;
+    font-size: 18px;
+
+
+
+}
+
+.join {
+    padding-left: 100px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.m-pic {
+    height: 306px;
+    width: 489px;
+    padding-left: 800px;
+    padding-top: 200px;
+    position: absolute;
+    /* background-color: cadetblue; */
+
+
+}
+
+
+/* common */
+body {
+    max-width: 1320;
+}
+
+/* location styles */
+.lo-p {
+    color: darkred;
+
+}
+
+.sec-lo {
+    text-align: left;
+    font-size: 35px;
+    padding: 60px;
+    font-weight: 600;
+    line-height: 56px;
+    padding-top: 200px;
+    background-color: rgba(189, 174, 125, 0.514);
+    height: 300px;
+    width: 600px;
+}
+
+.btn-prim {
+    text-align: center;
+
+}
+
+.btn {
+    font-size: 25px;
+    font-weight: 800;
+    border-radius: 5px;
+    border-color: brown;
+    height: 80px;
+    width: 180px;
+    color: white;
+    background-color: rgb(216, 15, 15);
+
+}
+
+/* off section */
+.mag {
+    width: 363px;
+    height: 363px;
+    /* background-color: brown; */
+    border-radius: 200px;
+    border: 10px solid red;
+
+
+
+}
+
+.new {
+    text-align: center;
+    font-size: 25px;
+}
+
+.so {
+    font-weight: 800;
+    font-size: 55px;
+    text-align: center;
+}
+
+.des {
+    color: rgb(148, 110, 110);
+    text-align: center;
+}
+
+.offer {
+    float: left;
+    height: 200px;
+    width: 400px;
+}
+
+.a2024 {
+    float: right;
+    height: 300px;
+    width: 400px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    margin-top: 100px;
+}
+
+.function {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.un {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.holi {
+    color: crimson;
+}
+
+.day {
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+
+.desk {
+    /* height: 190px; */
+    width: 1250px;
+    font-size: 20px;
+    color: darkslategray;
+    /* text-align: center; */
+}
+
+.cream {
+
+    height: 630px;
+    display: flex;
+    background-image: url("../images/Rectangle\ 2.png");
+
+    background-repeat: no-repeat;
+
+    background-position: bottom;
+}
+
+
+
+.tree {
+    /* float: right;  */
+    background-image: url("../images/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    /* padding-right: 30px; */
+}
+
+/* product */
+.gift {
+    color: red;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.pot {font-size: 48px;}
+
+.pot-des {font-size: 20px;}
+
+.pro {
+    float: left;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.duck ul {
+    display: flex;
+    margin-top: 100px;
+    float: left;
+}
+
+.duck li {
+    list-style: none;
+    margin-right: 10px;
+    padding: 5px;
+    /* display: flex; */
+}
+
+.lest {
+    margin-top: 200px;
+}
+
+/* subscriptionqq */
+.mail{
+    /* text-align: center; */
+
+}
+.subs{
+    text-align: center;
+    margin-bottom:  200px;
+}
+.tn-t{
+    color: crimson;
+    background-color: cornflowerblue;
+    /* background-color: darkblue; */
+    border: 5px solid blue;
+    height: 80px;
+    width: 200px;
+    font-size: 25px;
+    font-weight: 800;
+    border-radius: 28px;
+}
+
+.ent{width: 450px;
+height: 80px;
+font-size: 24px;
+border-radius: 30px;
+background-color: rgb(29, 221, 221);
+margin-top: 100px;}    
+    
